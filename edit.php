@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Page Title</title>
+        <title>Edit Data - <?php echo $data['nama'];?></title>
     </head>
     <body>
         <a href="view.php"><button>Back</button></a>
